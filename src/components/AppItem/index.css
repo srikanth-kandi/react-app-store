@@ -22,18 +22,12 @@
     border-radius: 5px;
 }
 
-.app-item-details-container {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    font-family: "bree serif";
-    font-weight: bold;
-}
-
 .app-item-title {
     margin-bottom: 0px;
     color: #1e293b;
     font-size: 22px;
+    font-family: "bree serif";
+    font-weight: bold;
 }
 
 @media screen and (max-width: 767px) {
